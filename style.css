@@ -1,0 +1,81 @@
+body{
+  margin: 0;
+}
+.first {
+
+  background-color: #85586F;
+  height: 750px;
+}
+
+.welcome {
+  padding: 3%;
+  color: #fff;
+  text-align: center;
+  font-size: 3.5rem;
+  font-family: "Sacramento", cursive;
+  line-height: 1.5;
+  font-weight: bolder;
+}
+
+.intro {
+  color: #fff;
+  text-align: center;
+  font-size: 2rem;
+  line-height: 1;
+  font-weight: bolder;
+  font-family: "Ubuntu", serif;
+  padding-bottom: 4%;
+}
+
+.clarify {
+  padding: 3%;
+  color: #fff;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: bolder;
+  font-family: "Ubuntu", san-serif;
+  border: dotted 10px;
+  border-color: #F65A83;
+  border-width: thick;
+}
+
+.second{
+  background-color: #FCE2DB;
+  height: 720px;
+}
+ol{
+  margin: 0;
+  padding: 5%;
+  text-align: center;
+}
+li{
+  color: #FF8FB1;
+  font-size: 1.4rem;
+  font-weight: bolder;
+  line-height: 1.5;
+  text-align: left;
+  font-family:  cursive;
+}
+span{
+  color:#7A4495;
+  font-family: "Montserrat",serif;
+  font-weight: bolder;
+  padding-right: 1%;
+  text-decoration: underline;
+}
+img{
+border-radius: 100%;
+image-resolution: snap;
+width: 70%;
+position: relative;
+right: 15%;
+
+padding-top:20%;
+padding-bottom: 10%;
+
+}
+.column{
+  padding-left: 5%;
+  padding-top: 2%;
+  width: 1130px;
+}
